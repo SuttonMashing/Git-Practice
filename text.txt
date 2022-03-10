@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 TExt text text
 
 This is some texxt what I done added 
+<<<<<<< HEAD
 
 Oh no I've written some really embaressing stuff in here I need to remove 
+=======
+=======
+>>>>>>> parent of 8da7c4e (added text to file)
+>>>>>>> parent of 2c93720 (no change)
