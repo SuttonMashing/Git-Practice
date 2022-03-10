@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 TExt text text
 
 This is some texxt what I done added 
-=======
->>>>>>> parent of 8da7c4e (added text to file)
